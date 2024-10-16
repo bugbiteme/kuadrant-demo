@@ -1,0 +1,7 @@
+kind: OperatorGroup
+apiVersion: operators.coreos.com/v1
+metadata:
+  name: sail
+  namespace: gateway-system
+spec:
+  upgradeStrategy: Default
