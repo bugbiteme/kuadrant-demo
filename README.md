@@ -221,9 +221,9 @@ kuadrant.kuadrant.io/kuadrant created
 This will setup and configure a number of Kuadrant subcomponents. Some of these can also take additional configuration:
 
 - Authorino (Enforcement Component for AuthPolicy)
-- Learn More: (Authorino CRD)[https://docs.kuadrant.io/latest/authorino-operator/#the-authorino-custom-resource-definition-crd]
+  - Learn More: (Authorino CRD)[https://docs.kuadrant.io/latest/authorino-operator/#the-authorino-custom-resource-definition-crd]
 - Limitador (Enforcement Component for RateLimitPolicy)
-- Learn More:(Limitador CRD)[https://docs.kuadrant.io/latest/limitador-operator/#features]
+  - Learn More:(Limitador CRD)[https://docs.kuadrant.io/latest/limitador-operator/#features]
 - DNS Operator (Enforcement Component for DNSPOlicy)
 
 ```bash
